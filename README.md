@@ -22,11 +22,17 @@ The Random Forest model was trained on a dataset containing labeled examples of 
 
 ## Website
 ## Flowchart
-![Flowchart](https://github.com/Yash02255/Financial-Fraud-Preventiom/blob/main/Screenshot%202023-11-05%20052755.png)
+![Flowchart](https://github.com/Yash02255/Financial-Fraud-Preventiom/blob/main/Screenshot%202023-11-05%20063210.png)
 
 The project includes a web interface that users can interact with to check the legitimacy of websites. Below is a screenshot of the website:
 
 ![Website](images/website.png)
+
+
+This project uses the following technologies:
+#Node.js
+#Mongodb
+#React.js
 
 ### Usage
 
