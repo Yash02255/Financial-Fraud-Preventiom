@@ -31,9 +31,3 @@ The project includes a web interface that users can interact with to check the l
 1. Users can enter a URL in the provided input field.
 2. Click on the "Check" button.
 3. The system will return a result indicating whether the website is likely to be a phishing site or not.
-
-## Installation
-
-To run the project locally, follow these steps:
-
-1. Clone the repository:
