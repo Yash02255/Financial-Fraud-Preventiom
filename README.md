@@ -33,7 +33,7 @@ The Website uses the following technologies:
 ### Node.js
 ### Mongodb
 ### React.js
-### Usage
+## Usage
 
 1. Users can enter a URL in the provided input field.
 2. Click on the "Check" button.
