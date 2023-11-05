@@ -27,10 +27,12 @@ The Random Forest model was trained on a dataset containing labeled examples of 
 The project includes a web interface that users can interact with to check the legitimacy of websites. Below is a screenshot of the website:
 
 ![Website](images/website.png)
+
+
 The Website uses the following technologies:
-# Node.js
-# Mongodb
-# React.js
+### Node.js
+### Mongodb
+### React.js
 ### Usage
 
 1. Users can enter a URL in the provided input field.
