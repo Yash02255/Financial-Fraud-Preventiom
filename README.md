@@ -6,7 +6,7 @@ The Financial Fraud Prevention System is a project aimed at detecting and preven
 
 ## Project Flowchart
 
-![Flowchart]()
+![Flowchart](https://github.com/Yash02255/Financial-Fraud-Preventiom/blob/main/Screenshot%202023-11-05%20052755.png)
 
 The above flowchart illustrates the working of the financial fraud prevention system. It outlines the steps involved in detecting and preventing phishing attacks.
 
