@@ -26,16 +26,20 @@ The Random Forest model was trained on a dataset containing labeled examples of 
 
 The project includes a web interface that users can interact with to check the legitimacy of websites. Below is a screenshot of the website:
 
+
+
 ![Website](https://github.com/Yash02255/Financial-Fraud-Preventiom/blob/main/WhatsApp%20Image%202023-11-05%20at%209.47.31%20AM.jpeg)
 
-![Website](https://github.com/Yash02255/Financial-Fraud-Preventiom/blob/main/WhatsApp%20Image%202023-11-05%20at%209.47.54%20AM.jpeg)
+![Website](https://github.com/Yash02255/Financial-Fraud-Preventiom/blob/main/WhatsApp%20Image%202023-11-05%20at%209.48.19%20AM.jpeg)
 
 ![Website](https://github.com/Yash02255/Financial-Fraud-Preventiom/blob/main/WhatsApp%20Image%202023-11-05%20at%209.48.43%20AM.jpeg)
 
 ## Web Crawler:
-Our website also uses a web crawler to identify the malicious websites all over the internet and it also displays lists of malicious websites which may be malicious on the Website.
 
-![Website](https://github.com/Yash02255/Financial-Fraud-Preventiom/blob/main/WhatsApp%20Image%202023-11-05%20at%209.48.19%20AM.jpeg)
+Our website also uses a web crawler to identify the malicious websites all over the internet and it also displays lists of malicious websites which may be malicious on the Website
+
+
+![Website](https://github.com/Yash02255/Financial-Fraud-Preventiom/blob/main/WhatsApp%20Image%202023-11-05%20at%209.47.54%20AM.jpeg)
 
 The Website uses the following technologies:
 ### Node.js
