@@ -30,9 +30,10 @@ The project includes a web interface that users can interact with to check the l
 
 
 This project uses the following technologies:
-#Node.js
-#Mongodb
-#React.js
+
+##Node.js
+##Mongodb
+##React.js
 
 ### Usage
 
